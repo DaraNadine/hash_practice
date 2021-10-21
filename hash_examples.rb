@@ -10,3 +10,7 @@ animal = {
   breed: "Pomeranian",
   born_in: 2014
 }
+
+customer = {
+  name: "Karen"
+}
